@@ -1,2 +1,8 @@
 node_modules
-build/script-runner.js
+build/
+.firebaserc
+.gitignore
+package-lock.json
+.gitignore
+hosting.*
+firebase.*
